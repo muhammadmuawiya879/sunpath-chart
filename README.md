@@ -28,7 +28,7 @@ You can set your own Latitude and Longitude in "main.m" file under ( % define lo
 3) Add folder to the Matlab Path.
 4) Run main.m
 #### Result:
-
+![result](https://user-images.githubusercontent.com/89341204/156519365-64e7cc00-900b-420e-ac9d-4f90d8a0ea74.jpg)
 ## References:
 [1] http://www.cccarchitecture.org/solar-paths-and-positions
 
