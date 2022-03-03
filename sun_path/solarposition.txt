@@ -1,0 +1,9 @@
+references:
+https://www.mathworks.com/matlabcentral/fileexchange/83453-sun-position-algorithm
+https://www.pveducation.org/pvcdrom/properties-of-sunlight/suns-position-to-high-accuracy
+https://www.oocities.org/~dmdelaney/Ottawa-solar-data/Ottawa-Ontario-sun-and-weather-data.html
+https://www.e-education.psu.edu/eme810/node/558
+http://www.plea-arch.org/wp-content/uploads/PLEA-NOTE-1-SOLAR-GEOMETRY.pdf
+https://www.mathworks.com/matlabcentral/fileexchange/23051-vectorized-solar-azimuth-and-elevation-estimation
+https://github.com/chadagreene/CDT
+https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/dff4ffb7-190a-4494-839f-ff39787bd48e/eb22d828-c61c-430d-b325-e6e020330325/previews/cdt/doc/html/CDT_Getting_Started.html
